@@ -3,13 +3,9 @@
 # Projet de synthèse
 ## Été 2025
 
-Le projet que vous aurez à réaliser durant le cours de cette session est un outil permettant de résoudre des grilles Sudoku. L'objectif est de vous faire implémenter un logiciel avec différents composants qui interagissent essemble, tout en conservant une conceptualisation claire et efficace.
+Le projet que vous aurez à réaliser durant cette session est un outil permettant de résoudre des grilles Sudoku. L'objectif est de vous faire implémenter un logiciel avec différents composants qui interagissent essemble, tout en conservant une conceptualisation claire et efficace.
 
 Vous n'avez pas besoin d'être capable de résoudre des Sudoku vous même pour compléter ce travail. Cependant, la page Wikipédia sur le sujet peut vous être utile pour comprendre de quoi il s'agit: [https://fr.wikipedia.org/wiki/Sudoku](https://fr.wikipedia.org/wiki/Sudoku).
-
-## Contact
-
-Vous pouvez m'écrire par courriel pour me poser des questions ou prendre rendez-vous pour une rencontre (en ligne ou à mon bureau). Je vous invite également à joindre le serveur Discord suivant où nous pourrons discuter en groupe du projet: https://discord.gg/zAQyhSepRb
 
 ## Spécifications générales
 
@@ -129,13 +125,13 @@ Sinon, ce document est lui-même écrit en Markdown, alors vous pouvez le télé
 
 ## Présentations
 
-Vous aurez deux présentations à faire au cours de cet été. La première aura lieu le 2 juillet où vous aurez l'occasion de me présenter ce que vous avez fait jusqu'à maintenant. Je pourrai vous donner des commentaires et répondre à vos questions à ce moment. Je n'évaluerai pas votre travail à ce moment, mais les commentaires que je donnerai feront partie de l'évaluation finale. La deuxième et dernière présentation aura lieu le 13 août, où vous démontrerez le fonctionnement complet de votre application. Il s'agira me montrer le bon fonctionnement de chacune des fonctionnalités présentées ci-haut. Chaque présentation sera d'une durée maximale de 30 minutes.
+Vous aurez deux présentations à faire au cours de cet été. La première aura lieu le 30 juin où vous aurez l'occasion de me présenter ce que vous avez fait jusqu'à maintenant. Je pourrai vous donner des commentaires et répondre à vos questions à ce moment. Je n'évaluerai pas votre travail à ce moment, mais les commentaires que je donnerai feront partie de l'évaluation finale. La deuxième et dernière présentation aura lieu le 18 août, où vous démontrerez le fonctionnement complet de votre application. Il s'agira me montrer le bon fonctionnement de chacune des fonctionnalités présentées ci-haut. Chaque présentation sera d'une durée maximale de 30 minutes.
 
 Je vous recommende d'amener un ordinateur portable pour présenter, mais vous pourrez présenter sur les ordinateurs du laboratoire sinon.
 
 ## Dépôt Git
 
-Vous pouvez obtenir votre dépôt Git au lien suivant : [https://classroom.github.com/a/QmnyQB26](https://classroom.github.com/a/QmnyQB26).
+Vous pouvez obtenir votre dépôt Git au lien suivant :  [https://classroom.github.com/a/kekTBCHE](https://classroom.github.com/a/kekTBCHE).
 
 
 ## Remise des travaux
