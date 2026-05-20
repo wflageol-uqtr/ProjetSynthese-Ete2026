@@ -1,7 +1,7 @@
 
 
 # Projet de synthèse
-## Été 2025
+## Été 2026
 
 Le projet que vous aurez à réaliser durant cette session est un outil permettant de résoudre des grilles Sudoku. L'objectif est de vous faire implémenter un logiciel avec différents composants qui interagissent essemble, tout en conservant une conceptualisation claire et efficace.
 
